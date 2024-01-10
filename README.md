@@ -1,40 +1,25 @@
 # Resumo das Análises de RH
 
-### Geral
-#### Funcionários Contratados, Ativos e Desligados:
-Mede a evolução temporal da força de trabalho considerando contratatações, desligamentos e variações anuais. Ajuda a compreender a estabilidade do quadro de funcionários ao longo do tempo.
+Este projeto abrange uma análise dos dados de Recursos Humanos para a empresa fictícia TalentHub Solutions, incluindo indicadores chave para um setor de RH.
 
-#### Turnover:
-Indica a taxa de saída e substituição de funcionários. Fundamental para avaliar custos financeiros, impacto na produtividade, clima organizacional e eficácia das estratégias de retenção.
+## Importância para o Setor de RH:
+### Tomada de Decisões Informada:
+Fornecer insights valiosos para decisões estratégicas em gestão de talentos e desenvolvimento organizacional.
 
-#### Distribuição por Tempo de Empresa:
-Fornece uma visão da antiguidade dos colaboradores na empresa. Ajuda a entender a composição da equipe e identificar possíveis desafios ou oportunidades de retenção.
+### Eficiência Operacional:
+Identificar áreas de otimização na gestão de recursos humanos, melhorando a eficiência operacional.
 
-### Contratações
-#### Composição por Área, Nível, Faixa Etária e Gênero:
-Estratifica a força de trabalho por diferentes dimensões, como área, nível hierárquico, faixa etária e gênero. Essencial para analisar a estrutura organizacional, diversidade e identificar áreas de foco para desenvolvimento. Também destaca a distribuição de novos contratados por gênero, contribuindo para o compromisso com a inclusão.
+### Promoção da Diversidade e Inclusão:
+Apoiar iniciativas de diversidade e inclusão ao destacar padrões demográficos e equidade salarial.
 
-#### Distribuição Geográfica:
-Utiliza um mapa para representar a quantidade de funcionários contratados por região, fornecendo insights sobre a presença geográfica da equipe e suportando análises estratégicas de expansão ou alocação de recursos.
+### Desenvolvimento da Equipe:
+Facilitar o desenvolvimento contínuo da equipe, identificando áreas de melhoria e pontos fortes.
 
-### Desligamentos
-#### Desligamentos por Área, Nível, Faixa Etária e Gênero:
-Analisa os desligamentos considerando diferentes dimensões: área, nível hierárquico, faixa etária e gênero. A importância reside em identificar padrões específicos e áreas de atenção nessas categorias, possibilitando uma abordagem estratégica para gestão de talentos, retenção e promoção da diversidade e inclusão.
+### Retenção de Talentos:
+Contribuir para estratégias eficazes de retenção, minimizando o turnover e promovendo um ambiente de trabalho saudável.
 
-#### Distribuição Geográfica:
-Utiliza um mapa para representar a quantidade de funcionários desligados por região, fornecendo insights sobre a presença geográfica da equipe e suportando análises estratégicas de expansão ou alocação de recursos.
-
-### Perfil da Empresa
-#### Análise por Sexo do Nível Hierarquico, Folha Salarial e Média Salarial:
-Ilustra a distribuição de funcionários ativos da empresa, permitindo uma visualização rápida da diversidade de gênero e distribuição hierárquica na equipe. Também é apresentada a distribuição da folha salarial, oferecendo insights sobre a equidade salarial e ajuda a identificar possíveis disparidades nas remunerações. Por fim, é destacado a média salarial.
-
-#### Perfil da Equipe
-Apresenta uma visão geral de cada funcionário, incluindo pessoais, permitindo uma rápida gestão individualizada.
-Esta visão destaca também as avaliações de desempenho dos funcionários, possibilitando a identificação de padrões e áreas de destaque. Facilitando a análise do desempenho individual e coletivo, fornecendo insights para o desenvolvimento da equipe.
-
-### Conclusão
-Esses indicadores são essenciais para uma gestão de Recursos Humanos informada e estratégica, proporcionando insights valiosos para tomadas de decisão e aprimoramento contínuo das práticas organizacionais.
-
+## Conclusão
+Este projeto é fundamental para capacitar o setor de Recursos Humanos a tomar decisões fundamentadas, impulsionar o desenvolvimento organizacional e criar práticas que sustentem uma força de trabalho produtiva e engajada.
 
 ##### Créditos:
 Base de dados cedida pela Hashtag Treinamentos
